@@ -6,3 +6,5 @@ The dict.yaml file contains all the compounds, characters and their alternatives
 The Quoc Ngu IME's functionality is limited, and can be improved by adding new words to the #Quoc Ngu section, pressing TAB and repeating them again.
 
 Some characters may not display correctly. This can be fixed by installing one of these fonts: https://www.chunom.org/pages/fonts/
+
+This IME requires RIME to work - this can be downloaded here https://rime.im/. I have written a guide to setting it up on this reddit page (this is for setting up another IME, but the principles are the same). If you run into any problems, you can seek help in this Discord server: https://discord.gg/BFbnZvp.
