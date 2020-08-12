@@ -1,0 +1,1454 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# chữ nôm
+# 
+# Date: 2020-08-03 
+
+---
+name: chu_nom
+version: "2020.08.03"
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+...
+# Single Characters
+
+𧵑	của
+吧	và
+𪜀	là
+𠬠	một
+固	có
+𠊛	người
+𥪝	trong
+特	được
+特	đặc
+特	đực
+空	không
+㐌	đã
+唄	với
+朱	cho
+各	các
+碎	tôi
+碎	tui
+於	ở
+翁	ông
+𧗱	về
+底	để
+拱	cũng
+𦤾	đến
+呢	này
+呢	nài
+𠓨	vào
+𡗉	nhiều
+偀	anh
+妬	đó
+如	như
+仍	nhưng
+仍	những
+欺	khi
+𨕭	trên
+𫥨	ra
+𦓡	mà
+沛	phải
+吏	lại
+群	còn
+𠱊	sẽ
+㖘	thì
+五	ngũ
+問	vấn
+恨	hận
+銀	ngân
+瓦	ngói
+藥	dược
+藥	ước
+查	tra
+喃	nôm
+跪	quỳ
+炊	sôi
+産	sản
+孔	khổng
+決	quyết
+壓	áp
+旦	đán
+旦	đến
+儒	nho
+喝	hét
+喝	hát
+改	cải
+考	khảo
+他	thà
+他	tha
+乃	nấy
+𢩿	sẻ
+没	một
+𢆥	năm
+爫	làm
+茹	nhà
+𨉟	mình
+𠫾	đi
+𡥵	con
+在	tại
+𠄩	hai
+被	bị
+備	bị
+役	việc
+役	dịch
+只	chỉ
+事	sự
+遶	theo
+丐	cái
+爲	vì
+欣	hơn
+呐	nói
+姑	cô
+𣈜	ngày
+㵋	mới
+𨖲	lên
+慄	rất
+戶	họ
+戶	hộ
+婆	bà
+局	cuộc
+局	cục
+册	sách
+銅	đồng
+垌	đồng
+同	đồng
+𡢐	sau
+當	đang
+咍	hay
+𤯩	sống
+𢧚	nên
+别	biết
+别	biệt
+𧡊	thấy
+耒	rồi
+城	thành
+成	thành
+誠	thành
+吻	vẫn
+恪	khác
+𠄼	năm
+渃	nước
+伮	nó
+細	tới
+戈	qua
+哿	cả
+之	gì
+之	chi
+低	đây
+数	số
+歲	tuổi
+歲	tuế
+次	thứ
+圻	kỳ
+期	kỳ
+奇	kỳ
+㛪	em
+一	nhất
+𠓀	trước
+伴	bạn
+意	ý
+意	ấy
+影	ảnh
+凭	bằng
+朋	bằng
+芇	nào
+頭	đầu
+投	đầu
+阮	nguyễn
+哴	rằng
+格	cách
+革	cách
+曰	viết
+尋	tìm
+𣅶	lúc
+李	lý
+理	lý
+正	chính
+政	chính
+𧘇	ấy
+𣎃	tháng
+會	hội
+憢	nhau
+𣗓	chưa
+時	thời
+時	thì
+吝	lần
+吝	lận
+由	do
+𣃣	vừa
+㦖	muốn
+文	văn
+工	công
+卷	cuốn
+卷	quyển
+捲	cuốn
+條	điều
+花	hoa
+華	hoa
+𡘯	lớn
+埃	ai
+𠀧	ba
+爸	ba
+㗂	tiếng
+堂	đường
+塘	đường
+糖	đường
+世	thế
+世	thể
+替	thế
+勢	thế
+曾	từng
+𫢩	nay
+坭	nơi
+形	hình
+前	tiền
+錢	tiền
+些	ta
+南	nam
+越	việt
+中	trung
+中	trúng
+中	đúng
+𠮩	nếu
+𥘷	trẻ
+𥏌	tên
+𠸜	tên
+實	thật
+實	thực
+媄	mẹ
+勤	cần
+𡀯	chuyện
+每	mỗi
+芒	mang
+調	đều
+調	điều
+姉	chị
+車	xe
+禮	lễ
+迻	đưa
+𥆾	nhìn
+國	quốc
+添	thêm
+添	thiêm
+高	cao
+步	bộ
+部	bộ
+隻	chiếc
+𤞦	mọi
+爭	tranh
+幀	tranh
+𢬣	tay
+𢝙	vui
+信	tin
+信	tín
+吀	xin
+民	dân
+省	tỉnh
+過	quá
+咹	ăn
+𢞅	yêu
+𡨌	giữa
+𡞕	vợ
+讀	đọc
+讀	độc
+𣩂	chết
+場	trường
+行	hàng
+行	hạnh
+行	hành
+行	hãng
+航	hàng
+𥙩	lấy
+𦖑	nghe
+𢢲	đẹp
+自	tự
+自	từ
+字	tự
+字	chữ
+𠢞	giúp
+𡮈	nhỏ
+書	thư
+書	thơ
+𠯆	nữa
+常	thường
+學	học
+東	đông
+𠅍	mất
+𨑜	xuống
+坦	đất
+𧸝	bán
+半	bán
+併	tính
+對	đối
+對	đỗi
+類	loại
+或	hoặc
+𩈘	mặt
+䀡	xem
+情	tình
+外	ngoài
+外	ngoại
+边	bên
+𣋀	sao
+牢	sao
+𤀘	vùng
+丕	vậy
+妝	trang
+張	trang
+張	trương
+𠳒	lời
+歇	hết
+陳	trần
+𠇍	mấy
+𠇍	với
+認	nhận
+兜	đâu
+清	thanh
+聲	thanh
+青	thanh
+古	cổ
+𤳄	bởi
+𢚸	lòng
+幅	bức
+兆	triệu
+𣦍	ngay
+𧵆	gần
+𧷸	mua
+用	dùng
+用	dụng
+𫯳	chồng
+分	phần
+分	phân
+女	nữ
+女	nữa
+女	nửa
+𧿨	trở
+曠	khoảng
+𠸥	kể
+觀	quan
+關	quan
+無	vô
+員	viên
+湖	hồ
+糊	hồ
+拠	cứ
+拠	cớ
+廊	làng
+廊	lang
+春	xuân
+𢣂	nghĩ
+報	báo
+本	bản
+版	bản
+適	thích
+釋	thích
+傷	thương
+總	tổng
+𣘃	cây
+傳	truyện
+傳	truyền
+𠁀	đời
+𤲂	dưới
+法	pháp
+心	tâm
+賖	xa
+﨤	gặp
+眜	mắt
+北	bắc
+明	minh
+元	nguyên
+四	tư
+𠶢	dù
+𠶢	dầu
+價	giá
+𡎥	ngồi
+代	đại
+大	đại
+𣇞	giờ
+身	thân
+𦘧	vẽ
+輪	luôn
+輪	luân
+司	ty
+𡛔	gái
+造	tạo
+共	cộng
+共	cùng
+𣋚	hôm
+务	mùa
+庄	chẳng
+庄	chăng
+推	thôi
+牟	màu
+𢲧	gây
+解	giải
+句	câu
+德	đức
+點	điểm
+𡨹	giữ
+卒	tốt
+務	vụ
+𡗶	trời
+𢖵	nhớ
+𠳨	hỏi
+𦣰	nằm
+想	tưởng
+沔	miền
+屬	thuộc
+注	chú
+排	bài
+𨖅	sang
+鐄	vàng
+旬	tuần
+眾	chúng
+𣛠	máy
+金	kim
+今	kim
+珠	châu
+洲	châu
+山	sơn
+𡥙	cháu
+菭	đầy
+日	nhật
+𠁂	đứa
+𨱽	dài
+樂	nhạc
+班	ban
+都	đủ
+都	đô
+𣎀	đêm
+娘	nàng
+娘	nương
+詩	thi
+曉	hiểu
+西	tây
+噠	đặt
+評	bình
+平	bình
+平	bằng
+瓶	bình
+𨷶	cửa
+義	nghĩa
+𠬃	bỏ
+𥹰	lâu
+房	phòng
+防	phòng
+位	vị
+𠹲	chứ
+𡗋	lắm
+𡦂	chữ
+塊	khỏi
+𣷷	biển
+秋	thu
+求	cầu
+𤎜	sáng
+𤎜	rậng
+𧼋	chạy
+蹎	chân
+呈	trình
+程	trình
+𪰂	phía
+𤤰	vua
+仁	nhân
+人	nhân
+𠸒	bảo
+𠸒	bảu
+保	bảo
+名	danh
+區	khu
+立	lập
+術	thuật
+賴	trái
+𣛤	trái
+強	càng
+玉	ngọc
+客	khách
+噲	gọi
+龍	long
+龍	rồng
+欱	hát
+𠄧	vài
+統	thống
+𨷑	mở
+朝	chiều
+朝	triều
+公	công
+𨀈	bước
+終	chung
+少	thiếu
+少	thiểu
+現	hiện
+𨅸	đứng
+扒	bắt
+孟	mạnh
+𡮣	bé
+示	thị
+市	thị
+視	thị
+級	cấp
+和	hoà
+𣇜	buổi
+𢞂	buồn
+蘭	lan
+跢	đá
+𥒥	đá
+舅	cậu
+𨔈	chơi
+物	vật
+𫇰	cũ
+連	liên
+聯	liên
+𢘾	nhờ
+吒	cha
+加	gia
+家	gia
+電	điện
+香	hương
+鄉	hương
+𠖤	bay
+𢗼	lo
+隊	đội
+𡊲	chỗ
+定	định
+唭	cười
+生	sinh
+太	thái
+度	độ
+𡖡	nhóm
+𫀅	coi
+軍	quân
+𤖹	lớp
+安	an
+仉	kẻ
+病	bệnh
+洋	dương
+回	hồi
+徊	hồi
+藝	nghề
+藝	nghệ
+𠊟	thằng
+堆	đôi
+𠭤	trả
+全	toàn
+柴	sài
+柴	thầy
+最	tối
+滝	sông
+紅	hồng
+印	in
+印	ấn
+打	đánh
+打	đả
+𠃣	ít
+飛	phi
+箕	kia
+伯	bác
+伯	bá
+博	bác
+艚	tàu
+邦	bang
+士	sĩ
+景	cảnh
+警	cảnh
+預	dự
+化	hoá
+𤽸	trắng
+黨	đảng
+𧁷	khó
+命	mạng
+命	mệnh
+界	giới
+阿	a
+阿	à
+偨	thầy
+糝	tấm
+𤗲	tấm
+𩃳	bóng
+𣈖	bóng
+𤊡	bóng
+払	chàng
+𧆄	thuốc
+襖	áo
+奥	áo
+年	niên
+年	nên
+𠸗	xưa
+劍	kiếm
+庭	đình
+光	quang
+停	đừng
+停	đình
+蘿	lá
+𠹾	chịu
+聰	thông
+通	thông
+財	tài
+材	tài
+才	tài
+子	tử
+長	trưởng
+長	trường
+䏧	da
+河	hà
+權	quyền
+𤾓	trăm
+𦓅	già
+犯	phạm
+𪝳	hắn
+接	tiếp
+陣	trận
+衝	xong
+衝	xung
+譯	dịch
+院	viện
+撑	xanh
+𥐉	ngắn
+𦊚	bốn
+貪	tham
+參	tham
+王	vương
+神	thần
+易	dễ
+囉	la
+探	thăm
+探	thám
+庯	phố
+黰	đen
+式	thức
+道	đạo
+圖	đồ
+途	đồ
+機	cơ
+基	cơ
+海	hải
+布	bố
+佈	bố
+𢂞	bố
+𢜝	sợ
+天	thiên
+主	chủ
+主	chúa
+𨑻	đem
+埋	mai
+𢟘	chắc
+志	chí
+㕵	uống
+指	chỉ
+雖	tuy
+首	thủ
+手	thủ
+默	mặc
+𧹼	đỏ
+泣	khắp
+唏	hơi
+帝	đấy
+帝	đế
+社	xã
+支	chi
+𡶀	núi
+𦒹	sáu
+方	phương
+紙	giấy
+𬙞	bảy
+𩵜	cá
+亞	á
+台	thay
+𨢇	rượu
+息	tức
+𡚢	to
+𠅳	quên
+引	dẫn
+律	luật
+上	thượng
+䬔	gió
+徐	chờ
+徐	từ
+見	kiến
+動	động
+𠋥	mày
+盤	bàn
+搬	bàn
+島	đảo
+𩅹	mưa
+業	nghiệp
+𠋺	tao
+姅	nửa
+姅	nữa
+𨑮	mười
+𨑮	mươi
+𥩯	dựng
+𠰺	dạy
+經	kinh
+將	tướng
+綠	lục
+𥄬	ngủ
+濟	tế
+際	tế
+戰	chiến
+焒	lửa
+𤳇	trai
+感	cảm
+感	cám
+佛	phật
+哭	khóc
+府	phủ
+不	bất
+品	phẩm
+究	cứu
+林	lâm
+功	công
+重	trọng
+重	chồng
+𡏦	xây
+拖	đỡ
+包	bao
+體	thể
+治	trị
+値	trị
+結	kết
+𧖱	máu
+十	thập
+歐	âu
+仙	tiên
+先	tiên
+下	hạ
+㹥	chó
+油	dầu
+油	dù
+沙	sa
+店	tiệm
+𢜠	mừng
+發	phát
+萻	ấm
+試	thử
+試	thi
+此	thử
+𪀄	chim
+彈	đàn
+彈	đạn
+老	lão
+割	cắt
+船	thuyền
+味	mùi
+味	vị
+𢺺	chia
+組	tổ
+祖	tổ
+粓	cơm
+域	vực
+料	liệu
+合	hợp
+織	chức
+鉑	bạc
+者	giả
+水	thuỷ
+俗	tục
+媽	má
+楛	gỗ
+交	giao
+畑	đèn
+𢷮	đổi
+舉	cử
+筆	bút
+案	án
+領	lãnh
+領	lĩnh
+作	tác
+馬	mã
+色	sắc
+迷	mê
+氣	khí
+師	sư
+𠰘	miệng
+𤙭	bò
+婦	phụ
+輔	phụ
+暫	tạm
+史	sử
+啊	à
+啊	ạ
+啊	a
+鬥	đấu
+斗	đấu
+苦	khổ
+苦	khó
+惜	tiếc
+反	phản
+果	quả
+椒	tiêu
+教	giáo
+精	tinh
+星	tinh
+科	khoa
+量	lượng
+茶	trà
+縁	duyên
+置	trí
+纇	lỗi
+助	trợ
+𠔭	tám
+小	tiểu
+後	hậu
+𠊚	ngài
+𠊚	người
+入	nhập
+能	năng
+𠦳	nghìn
+𠦳	ngàn
+葻	bông
+目	mục
+𠃩	chín
+𤯆	ngon
+𩄲	mây
+呌	kêu
+𦝄	trăng
+嘲	chào
+獨	độc
+危	nguy
+章	chương
+妸	gã
+音	âm
+陰	âm
+題	đề
+提	đề
+籺	hạt
+萬	vạn
+製	chế
+制	chế
+制	chơi
+典	điển
+絏	dây
+瓊	quỳnh
+力	lực
+内	nội
+待	đợi
+多	đa
+猫	mèo
+唯	dạ
+唯	duy
+旗	cờ
+旗	kỳ
+碁	cờ
+要	yếu
+要	yêu
+口	khẩu
+恩	ân
+恩	ơn
+限	hạn
+媒	môi
+證	chứng
+䏾	bụng
+䏾	bóng
+響	hưởng
+節	tiết
+節	tết
+𣟮	mềm
+福	phước
+福	phúc
+地	địa
+間	gian
+土	thổ
+寔	thiệt
+寔	thực
+競	cạnh
+址	chỉ
+失	thất
+曆	lịch
+歷	lịch
+幸	hạnh
+杏	hạnh
+出	xuất
+及	cập
+𥾘	sợi
+急	gấp
+急	cấp
+算	toán
+夾	giáp
+𠁦	trúng
+𠁦	đúng
+漢	hán
+坊	phường
+英	anh
+語	ngữ
+二	nhì
+二	nhị
+豫	dựa
+盒	hộp
+嫩	non
+𡽫	non
+論	luận
+蓮	sen
+祝	chúc
+展	triển
+𡉕	hòn
+件	kiện
+近	cận
+巾	khăn
+舍	xá
+詞	từ
+𢩮	dắt
+𡎝	cõi
+畢	tất
+必	tất
+第	đệ
+營	doanh
+火	hoả
+喂	ôi
+得	đắc
+使	sứ
+使	sử
+𤄯	trong
+𧿆	dãy
+𠳐	vâng
+然	nhiên
+言	ngôn
+係	hệ
+系	hệ
+衛	vệ
+伵	tớ
+魚	ngư
+執	chấp
+斤	cân
+劸	khoẻ
+𣊾	bây
+呸	bậy
+ㇶ	chuỷ
+止	chỉ
+𥿗	chỉ
+險	hiểm
+核	hạch
+核	cây
+悔	hối
+互	hỗ
+犬	khuyển
+犬	chó
+几	kỉ
+紀	kỷ
+ㇴ	lại
+美	mỹ
+研	nghiên
+饒	nhiêu
+𖿱	nháy
+迺	nãy
+片	phiến
+𥽢	phèn
+𠱋	rồ
+𢭲	vói
+仕	xảy
+鳥	điểu
+絆	bận
+停	dừng
+載	tải
+枝	chi
+咖	cà
+啡	phê
+看	khán
+進	tiến
+祠	thờ
+思	tư
+皇	hoàng
+習	tập
+良	lương
+面	diện
+積	tích
+集	tập
+規	quy
+廷	đình
+察	sát
+万	vạn
+𠁑	dưới
+𠂎	ấy
+𪜕	đỏ
+亊	sự
+亜	á
+众	chúng
+价	giá
+会	hội
+𠇮	mình
+体	thể
+侈	đứa
+𠉞	nay
+倅	tôi
+倅	tui
+𫳵	sao
+𠑬	nhau
+党	đảng
+𠒷	tin
+𠒷	tín
+𠓇	sáng
+內	nội
+𫤯	tám
+冊	sách
+冲	trong
+𠚢	ra
+別	biết
+別	biệt
+創	sáng
+卫	vệ
+历	lịch
+厤	lịch
+参	tham
+𪠞	đi
+又	lại
+叫	kêu...
+吝	lần...
+吶	nói
+吵	sao
+呂	trả
+味	mùi...
+命	mạng...
+呫	nhóm
+𠰹	đã
+咦	gì
+哙	hỏi
+咱	ta
+𠵴	mình
+㖫	rằng
+𠸛	tên
+𪢈	sau
+𡀮	nếu
+国	quốc
+𡐙	đất
+𡗅	về
+𡗊	nhiều
+夭	yêu
+头	đầu
+奴	nó
+妑	bà
+𡛤	nửa
+𡛤	nữa
+𡝕	và
+𪦆	đó
+孕	dựng
+学	học
+𡧲	giữa
+𡨸	chữ
+𪧚	giữ
+对	đối
+対	đối
+㝵	ngày
+𣊒	thì
+𡭬	bé
+𡮥	bé
+𡮤	bé
+𡮩	bé
+𪨅	trẻ
+尼	này
+尼	nơi
+𡳒	vẽ
+𡿨	nháy
+庒	chẳng
+庌	nhà
+𢒂	chín
+
+#Compounds
+𡦂喃	chũ nôm
+固體	có thể
+作品	tác phẩm
+文化	văn hoá
+家庭	gia đình
+組織	tổ chức
+城庯	thành phố
+世界	thế giới
+河内	Hà Nội
+眾碎	chúng tôi
+作者	tác giả
+茹文	nhà văn
+朱别	cho biết
+藝術	nghệ thuật
+時間	thời gian
+眾些	chúng ta
+𠊛些	người ta
+畢哿	tất cả
+頭先	đầu tiên
+𡥵𠊛	con người
+空體	không thể
+歷史	lịch sử
+特别	đặc biệt
+婦女	phụ nữ
+國家	quốc gia
+社會	xã hội
+句𡀯	câu chuyện
+出版	xuất bản
+警察	cảnh sát
+研究	nghiên cứu
+如勢	như thế
+扒頭	bắt đầu
+實現	thực hiện
+雖然	tuy nhiên
+藝士	nghệ sĩ
+𡢐妬	sau đó
+文學	văn học
+使用	sử dụng
+遊歷	du lịch
+包𣇞	bao giờ
+章程	chương trình
+幅幀	bức tranh
+𡏦𥩯	xây dựng
+問題	vấn đề
+發展	phát triển
+情𢞅	tình yêu
+𣊾𣇞	bây giờ
+參加	tham gia
+如丕	như vậy
+價値	giá trị
+局𠁀	cuộc đời
+一𪜀	nhất là
+𥪝欺	trong khi
+彈翁	đàn ông
+中心	trung tâm
+決定	quyết định
+區域	khu vực
+遺産	di sản
+接俗	tiếp tục
+關重	quan trọng
+台𢷮	thay đổi
+讀者	độc giả
+仕𫥨	xảy ra
+大學	đại học
+經濟	kinh tế
+役爫	việc làm
+𠓀欺	trước khi
+保衛	bảo vệ
+𣈜𣎃	ngày tháng
+𡥵𡛔	con gái
+國際	quốc tế
+勢芇	thế nào
+𢺺𢩿	chia sẻ
+坦渃	đất nước
+𠭤𠳒	trả lời
+幸福	hạnh phúc
+現𫢩	hiện nay
+科學	khoa học
+噲𪜀	gọi là
+機關	cơ quan
+政府	chính phủ
+通信	thông tin
+出現	xuất hiện
+成功	thành công
+戰爭	chiến tranh
+自由	tự do
+𠁀𤯩	đời sống
+𧿨吏	trở lại
+𧁷巾	khó khăn
+機會	cơ hội
+感𧡊	cảm thấy
+精神	tinh thần
+博士	bác sĩ
+人員	nhân viên
+人民	nhân dân
+系統	hệ thống
+包饒	bao nhiêu
+𠬠吝	một lần
+預案	dự án
+𧿨𧗱	trở về
+聯關	liên quan
+影響	ảnh hưởng
+情感	tình cảm
+𡥵𤳇	con trai
+甚至	thậm chí
+排書	bài thơ
+公佈	công bố
+地方	địa phương
+結果	kết quả
+政治	chính trị
+要求	yêu cầu
+生員	sinh viên
+爫朱	làm cho
+産出	sản xuất
+𣋚𫢩	hôm nay
+發現	phát hiện
+學生	học sinh
+群吏	còn lại
+吒媄	cha mẹ
+在牢	tại sao
+場合	trường hợp
+産品	sản phẩm
+默𠶢	mặc dù
+彈婆	đàn bà
+電話	điện thoại
+關係	quan hệ
+渃外	nước ngoài
+打價	đánh giá
+市場	thị trường
+現代	hiện đại
+茹渃	nhà nước
+教育	giáo dục
+平常	bình thường
+病院	bệnh viện
+𠓀低	trước đây
+𡢐呢	sau này
+爫之	làm gì
+爲勢	vì thế
+感恩	cám ơn
+𧿨𢧚	trở nên
+𣈜𫢩	ngày nay
+主題	chủ đề
+自然	tự nhiên
+芇妬	nào đó
+正式	chính thức
+枝節	chi tiết
+句𠳨	câu hỏi
+獨到	độc đáo
+條件	điều kiện
+首將	thủ tướng
+偀㛪	anh em
+共産	cộng sản
+咖啡	cà phê
+工作	công tác
+𥆾𧡊	nhìn thấy
+調查	điều tra
+財政	tài chính
+位置	vị trí
+媒場	môi trường
+首都	thủ đô
+唯一	duy nhất
+看者	khán giả
+教師	giáo sư
+獨身	độc thân
+認𫥨	nhận ra
+軍隊	quân đội
+過程	quá trình
+底吏	để lại
+呐𡀯	nói chuyện
+言語	ngôn ngữ
+𠮩空	nếu không
+𠫾爫	đi làm
+現在	hiện tại
+分𤾓	phần trăm
+解釋	giải thích
+題材	đề tài
+尋曉	tìm hiểu
+役務	dịch vụ
+盤𢬣	bàn tay
+革命	cách mạng
+機體	cơ thể
+傳形	truyền hình
+材料	tài liệu
+戈𠁀	qua đời
+渃眜	nước mắt
+𤑟𤉜	rõ ràng
+空氣	không khí
+形式	hình thức
+公認	công nhận
+数量	số lượng
+边外	bên ngoài
+解決	giải quyết
+壓力	áp lực
+翁婆	ông bà
+音樂	âm nhạc
+力量	lực lượng
+民主	dân chủ
+𫥨𠫾	ra đi
+共和	cộng hoà
+進士	tiến sĩ
+經營	kinh doanh
+菭都	đầy đủ
+包𠁟	bao gồm
+牟色	màu sắc
+通報	thông báo
+公安	công an
+丕𦓡	vậy mà
+互助	hỗ trợ
+茹行	nhà hàng
+𣈜𠸗	ngày xưa
+𠬠𠄧	một vài
+鬥價	đấu giá
+銀行	ngân hàng
+國會	quốc hội
+小邦	tiểu bang
+堆欺	đôi khi
+時代	thời đại
+茹祠	nhà thờ
+制度	chế độ
+聯邦	liên bang
+如𪜀	như là
+錢鉑	tiền bạc
+沱㶞	Đà Nẵng
+班頭	ban đầu
+呌噲	kêu gọi
+陰曆	âm lịch
+㵋低	mới đây
+底朱	để cho
+獨立	độc lập
+婆𡥵	bà con
+感恩	cảm ơn
+呐𪜀	nói là
+才能	tài năng
+危險	nguy hiểm
+觀點	quan điểm
+如空	như không
+部長	bộ trưởng
+地點	địa điểm
+律師	luật sư
+思想	tư tưởng
+襖𨱽	áo dài
+結合	kết hợp
+軍事	quân sự
+𫥨𠓨	ra vào
+固欺	có khi
+長成	trưởng thành
+於吏	ở lại
+𠫾戈	đi qua
+卒業	tốt nghiệp
+吀纇	xin lỗi
+聰明	thông minh
+分𡘯	phần lớn
+主要	chủ yếu
+反對	phản đối
+𠃣一	ít nhất
+宗教	tôn giáo
+工人	công nhân
+佛教	phật giáo
+戰鬥	chiến đấu
+别包	biết bao
+各位	các vị
+分别	phân biệt
+情形	tình hình
+回教	hồi giáo
+曉别	hiểu biết
+朱𢧚	cho nên
+塘庯	đường phố
+台爲	thay vì
+姉㛪	chị em
+皇帝	hoàng đế
+地址	địa chỉ
+主人	chủ nhân
+𠾕𠳨	đòi hỏi
+參觀	tham quan
+爲牢	vì sao
+祖國	tổ quốc
+生𤯨	sinh sống
+固條	có điều
+恪别	khác biệt
+營業	doanh nghiệp
+特色	đặc sắc
+物體	vật thể
+大使	đại sứ
+文明	văn minh
+払𤳇	chàng trai
+一定	nhất định
+𢂞媄	bố mẹ
+𠫾步	đi bộ
+𣋚𡢐	hôm sau
+工藝	công nghệ
+𨷶行	cửa hàng
+人類	nhân loại
+行客	hành khách
+呐終	nói chung
+茹碎	nhà tôi
+𡀯情	chuyện tình
+茹於	nhà ở
+偀姉	anh chị
+兜固	đâu có
+歲𥘷	tuổi trẻ
+保險	bảo hiểm
+𣇜𤎜	buổi sáng
+藝業	nghề nghiệp
+飛場	phi trường
+鬥爭	đấu tranh
+統一	thống nhất
+𨷶数	cửa sổ
+𠬠𣅶	một lúc
+聯係	liên hệ
+主日	chủ nhật
+都市	đô thị
+茹𨷶	nhà cửa
+太平	thái bình
+排學	bài học
+㗂呐	tiếng nói
+電子	điện tử
+程度	trình độ
+輪輪	luôn luôn
+排欱	bài hát
+必然	tất nhiên
+𣇞低	giờ đây
+欺芇	khi nào
+權力	quyền lực
+﨤憢	gặp nhau
+時節	thời tiết
+動物	động vật
+航空	hàng không
+學習	học tập
+𣈜𡢐	ngày sau
+回音	hồi âm
+天下	thiên hạ
+翁𦓅	ông già
+咹㕵	ăn uống
+𥘷𡥵	trẻ con
+預見	dự kiến
+界限	giới hạn
+改良	Cải lương
+𠸜噲	tên gọi
+豫𨕭	dựa trên
+提及	đề cập
+𢺺𢬣	chia tay
+咍𪜀	hay là
+𢖵吏	nhớ lại
+𠓀𩈘	trước mặt
+𣘃数	cây số
+面積	diện tích
+能量	năng lượng
+噠𠸜	đặt tên
+場學	trường học
+𣈜禮	ngày lễ
+音聲	âm thanh
+排報	bài báo
+丕㖘	vậy thì
+版圖	bản đồ
+𨅸頭	đứng đầu
+集合	tập hợp
+下龍	Hạ Long
+海外	hải ngoại
+𢷮㵋	đổi mới
+民数	dân số
+凭證	bằng chứng
+基本	cơ bản
+𡚢𡘯	to lớn
+成分	thành phần
+旬禮	tuần lễ
+茹欱	nhà hát
+評論	bình luận
+規模	quy mô
+外國	ngoại quốc
+㛪𡮣	em bé
+易傷	dễ thương
+分芇	phần nào
+祖先	tổ tiên
+工業	công nghiệp
+𤄯𤎜	trong sáng
+𠓨曠	vào khoảng
+民廊	dân làng
+教員	giáo viên
+學者	học giả
+𪰂𠓀	phía trước
+𠫾𨔈	đi chơi
+海軍	hải quân
+𨷑頭	mở đầu
+總共	tổng cộng
+𠬃𠫾	bỏ đi
+㐌𥹰	đã lâu
+競爭	cạnh tranh
+適合	thích hợp
+生日	sinh nhật
+朝廷	triều đình
+國防	quốc phòng
+預定	dự định
+茹𤤰	nhà vua
+𣋚戈	hôm qua
+高級	cao cấp
+最多	tối đa
+庄埃	chẳng ai
+𠁂𡮣	đứa bé
+最少	tối thiểu
+學行	học hành
+歐洲	âu châu
+塘𠫾	đường đi
+𠫾𫥨	đi ra
+題出	đề xuất
+空牢	không sao
+𧁷𠹾	khó chịu

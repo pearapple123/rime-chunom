@@ -1,0 +1,350 @@
+# Rime schema
+# Chữ Nôm IME
+# encoding: UTF-8
+
+schema:
+  schema_id: chu_nom
+  name: 𡦂喃矫𢱗
+  version: “1.0.0” (2020-08-03)
+  author: stickytoffeepuddingwithcaramel@gmail.com
+  description: 矫𢱗朱曰唄𡦂喃
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 漢文, 蕃文 ]
+  - name: simplification
+    states: [ 正字, 略字 ]
+  - name: full_shape
+    states: [ 半形, 全形 ]
+  - name: ascii_punct
+    states: [ 亞式, 洋式 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+menu:
+  page_size: 5
+  alternative_select_keys: 
+
+speller:
+  alphabet: qwertyuiopasdfghjklzxcvbnm
+  algebra:
+    - xform/ắ/aws/
+    - derive/aws/asw/
+    - xform/ấ/aas/
+    - derive/aas/asa/
+    - xform/ế/ees/
+    - derive/ees/ese/
+    - xform/ố/oos/
+    - derive/oos/oso/
+    - xform/ớ/ows/
+    - derive/ows/osw/
+    - xform/ứ/usw/
+    - derive/usw/uws/
+    - xform/ằ/awf/
+    - derive/awf/afw/
+    - xform/ầ/aaf/
+    - derive/aaf/afa/
+    - xform/ề/eef/
+    - derive/eef/efe/
+    - xform/ồ/oof/
+    - derive/ofo/ồ/
+    - xform/ờ/owf/
+    - derive/owf/ofw/
+    - xform/ừ/uwf/
+    - derive/uwf/ufw/
+    - xform/ẳ/arw/
+    - derive/arw/awr/
+    - xform/ẩ/aar/
+    - derive/aar/ara/
+    - xform/ể/eer/
+    - derive/eer/ere/
+    - xform/ổ/oor/
+    - derive/oor/oro/
+    - xform/ở/owr/
+    - derive/owr/orw/
+    - xform/ử/uwr/
+    - derive/uwr/urw/
+    - xform/ẵ/awx/
+    - derive/awx/axw/
+    - xform/ẫ/aax/
+    - derive/aax/axa/
+    - xform/ễ/eex/
+    - derive/eex/exe/
+    - xform/ỗ/oox/
+    - derive/oox/oxo/
+    - xform/ỡ/owx/
+    - derive/owx/oxw/
+    - xform/ữ/uwx/
+    - derive/uwx/uxw/
+    - xform/ậ/aaj/
+    - derive/aaj/aja/
+    - xform/ệ/eej/
+    - derive/eej/eje/
+    - xform/ộ/ooj/
+    - derive/ooj/ojo/
+
+#Single
+    - xform/đ/dd/
+    - xform/ă/aw/
+    - xform/ơ/ow/
+    - xform/ư/uw/
+    - xform/â/aa/
+    - xform/ê/ee/
+    - xform/ô/oo/
+    - xform/ã/ax/
+    - xform/ẽ/ex/
+    - xform/ĩ/ix/
+    - xform/õ/ox/
+    - xform/ũ/ux/
+    - xform/á/as/
+    - xform/é/es/
+    - xform/í/is/
+    - xform/ó/os/
+    - xform/ú/us/
+    - xform/à/af/
+    - xform/è/ef/
+    - xform/ì/if/
+    - xform/ò/of/
+    - xform/ù/uf/
+    - xform/ạ/aj/
+    - xform/ẹ/ej/
+    - xform/ị/ij/
+    - xform/ọ/oj/
+    - xform/ụ/uj/
+    - xform/ả/ar/
+    - xform/ẻ/er/
+    - xform/ỉ/ir/
+    - xform/ỏ/or/
+    - xform/ủ/ur/
+    - xform/ơ/ow/
+    - xform/ư/uw/
+    - xform/â/aa/
+    - xform/ý/ys/
+    - xform/ỳ/yf/
+    - xform/ỵ/yj/
+    - xform/ỷ/yr/
+    - xform/ỹ/yx/
+
+translator:
+  dictionary: chu_nom
+  preedit_format:
+    - xform/aws/ắ/
+    - xform/asw/ắ/
+    - xform/aas/ấ/
+    - xform/asa/ấ/
+    - xform/ees/ế/
+    - xform/ese/ế/
+    - xform/oos/ố/
+    - xform/oso/ố/
+    - xform/ows/ớ/
+    - xform/osw/ớ/
+    - xform/usw/ứ/
+    - xform/uws/ứ/
+    - xform/awf/ằ/
+    - xform/afw/ằ/
+    - xform/aaf/ầ/
+    - xform/afa/ầ/
+    - xform/eef/ề/
+    - xform/efe/ề/
+    - xform/oof/ồ/
+    - xform/ofo/ồ/
+    - xform/owf/ờ/
+    - xform/ofw/ờ/
+    - xform/uwf/ừ/
+    - xform/ufw/ừ/
+    - xform/arw/ẳ/
+    - xform/awr/ẳ/
+    - xform/aar/ẩ/
+    - xform/ara/ẩ/
+    - xform/eer/ể/
+    - xform/ere/ể/
+    - xform/oor/ổ/
+    - xform/oro/ổ/
+    - xform/owr/ở/
+    - xform/orw/ở/
+    - xform/uwr/ử/
+    - xform/urw/ử/
+    - xform/awx/ẵ/
+    - xform/axw/ẵ/
+    - xform/aax/ẫ/
+    - xform/axa/ẫ/
+    - xform/eex/ễ/
+    - xform/exe/ễ/
+    - xform/oox/ỗ/
+    - xform/oxo/ỗ/
+    - xform/owx/ỡ/
+    - xform/oxw/ỡ/
+    - xform/uwx/ữ/
+    - xform/uxw/ữ/
+    - xform/aaj/ậ/
+    - xform/aja/ậ/
+    - xform/eej/ệ/
+    - xform/eje/ệ/
+    - xform/ooj/ộ/
+    - xform/ojo/ộ/
+
+#Single
+    - xform/dd/đ/
+    - xform/aw/ă/
+    - xform/ow/ơ/
+    - xform/uw/ư/
+    - xform/aa/â/
+    - xform/ee/ê/
+    - xform/oo/ô/
+    - xform/ax/ã/
+    - xform/ex/ẽ/
+    - xform/ix/ĩ/
+    - xform/ox/õ/
+    - xform/ux/ũ/
+    - xform/as/á/
+    - xform/es/é/
+    - xform/is/í/
+    - xform/os/ó/
+    - xform/us/ú/
+    - xform/af/à/
+    - xform/ef/è/
+    - xform/if/ì/
+    - xform/of/ò/
+    - xform/uf/ù/
+    - xform/aj/ạ/
+    - xform/ej/ẹ/
+    - xform/ij/ị/
+    - xform/oj/ọ/
+    - xform/uj/ụ/
+    - xform/ar/ả/
+    - xform/er/ẻ/
+    - xform/ir/ỉ/
+    - xform/or/ỏ/
+    - xform/ur/ủ/
+    - xform/ow/ơ/
+    - xform/uw/ư/
+    - xform/aa/â/
+    - xform/ys/ý/
+    - xform/yf/ỳ/
+    - xform/yj/ỵ/
+    - xform/yr/ỷ/
+    - xform/yx/ỹ/
+  spelling_hints: 5
+
+  comment_format:
+    - xform/aws/ắ
+    - xform/asw/ắ/
+    - xform/aas/ấ/
+    - xform/asa/ấ/
+    - xform/ees/ế/
+    - xform/ese/ế/
+    - xform/oos/ố/
+    - xform/oso/ố/
+    - xform/ows/ớ/
+    - xform/osw/ớ/
+    - xform/usw/ứ/
+    - xform/uws/ứ/
+    - xform/awf/ằ/
+    - xform/afw/ằ/
+    - xform/aaf/ầ/
+    - xform/afa/ầ/
+    - xform/eef/ề/
+    - xform/efe/ề/
+    - xform/oof/ồ/
+    - xform/ofo/ồ/
+    - xform/owf/ờ/
+    - xform/ofw/ờ/
+    - xform/uwf/ừ/
+    - xform/ufw/ừ/
+    - xform/arw/ẳ/
+    - xform/awr/ẳ/
+    - xform/aar/ẩ/
+    - xform/ara/ẩ/
+    - xform/eer/ể/
+    - xform/ere/ể/
+    - xform/oor/ổ/
+    - xform/oro/ổ/
+    - xform/owr/ở/
+    - xform/orw/ở/
+    - xform/uwr/ử/
+    - xform/urw/ử/
+    - xform/awx/ẵ/
+    - xform/axw/ẵ/
+    - xform/aax/ẫ/
+    - xform/axa/ẫ/
+    - xform/eex/ễ/
+    - xform/exe/ễ/
+    - xform/oox/ỗ/
+    - xform/oxo/ỗ/
+    - xform/owx/ỡ/
+    - xform/oxw/ỡ/
+    - xform/uwx/ữ/
+    - xform/uxw/ữ/
+    - xform/aaj/ậ/
+    - xform/aja/ậ/
+    - xform/eej/ệ/
+    - xform/eje/ệ/
+    - xform/ooj/ộ/
+    - xform/ojo/ộ/
+
+#Single
+    - xform/dd/đ/
+    - xform/aw/ă/
+    - xform/ow/ơ/
+    - xform/uw/ư/
+    - xform/aa/â/
+    - xform/ee/ê/
+    - xform/oo/ô/
+    - xform/ax/ã/
+    - xform/ex/ẽ/
+    - xform/ix/ĩ/
+    - xform/ox/õ/
+    - xform/ux/ũ/
+    - xform/as/á/
+    - xform/es/é/
+    - xform/is/í/
+    - xform/os/ó/
+    - xform/us/ú/
+    - xform/af/à/
+    - xform/ef/è/
+    - xform/if/ì/
+    - xform/of/ò/
+    - xform/uf/ù/
+    - xform/aj/ạ/
+    - xform/ej/ẹ/
+    - xform/ij/ị/
+    - xform/oj/ọ/
+    - xform/uj/ụ/
+    - xform/ar/ả/
+    - xform/er/ẻ/
+    - xform/ir/ỉ/
+    - xform/or/ỏ/
+    - xform/ur/ủ/
+    - xform/ow/ơ/
+    - xform/uw/ư/
+    - xform/aa/â/
+    - xform/ys/ý/
+    - xform/yf/ỳ/
+    - xform/yj/ỵ/
+    - xform/yr/ỷ/
+    - xform/yx/ỹ/
+
+punctuator:
+  import_preset: default
