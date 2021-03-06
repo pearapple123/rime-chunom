@@ -348,3 +348,6 @@ translator:
 
 punctuator:
   import_preset: default
+
+style:
+  font_face: "Arial"
