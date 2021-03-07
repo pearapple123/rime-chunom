@@ -350,4 +350,4 @@ punctuator:
   import_preset: default
 
 style:
-  font_face: "Arial"
+  font_face: "Tahoma"
